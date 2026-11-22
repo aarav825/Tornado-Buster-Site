@@ -4,7 +4,7 @@ Tornado Buster is a drone-based disaster assessment project focused on using aer
 
 The project aims to develop a drone system capable of collecting information from disaster-affected areas and presenting it through a custom desktop application. The application is written in C++ using Raylib, with a user interface designed for monitoring camera feeds, map data, sensor readings, and system status.
 
-## 🌐 Website
+## Website
 
 **[Visit the Tornado Buster Website](https://aarav825.github.io/Tornado-Buster-Site/)**
 
